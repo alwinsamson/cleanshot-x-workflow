@@ -136,6 +136,11 @@ osascript -l JavaScript tools/make_icons.js "$PWD/assets"
 
 - [CleanShot X API][api] - URL scheme that the workflow uses.
 
+## License
+
+CleanShot X for Alfred is available under the BSD 3-Clause license. See
+[LICENSE](LICENSE) for details.
+
 ---
 
 <p align="right">
